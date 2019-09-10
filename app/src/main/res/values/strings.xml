@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clamber</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log in</string>
+    <string name="create_login_blurb">No login? Create one now.</string>
+</resources>
